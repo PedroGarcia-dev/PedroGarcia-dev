@@ -6,7 +6,6 @@
 
 - 🔭 I currently provide services as a freelancer
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
 - 💬 Ask me about **JavaScript, C#, ASP.NET, CSS, SQL, Node.JS**.
 
